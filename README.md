@@ -19,7 +19,7 @@ We will be converting the code to JAVA and integrating the code with the Mobile 
 #### Tools and Technologies:
 1. Python 3.x (matplotlib,firebase)
 2. Google FireBase
-3. We will be using JAVA in future
+3. We will be using JAVA in future(for integrating algorithm with app)
 
 #### Images:
 
