@@ -24,13 +24,13 @@ We will be converting the code to JAVA and integrating the code with the Mobile 
 #### Images:
 
 <p align="center">
-  <img width="300" heigth="300" src="Images_for_readme/img1.png">
+  <img width="300" heigth="300" src="Images_for_readme/img1.PNG">
 </p>
   
 <p align="center">
-  <img width="300" heigth="300" src="Images_for_readme/img2.png">
+  <img width="300" heigth="300" src="Images_for_readme/img2.PNG">
 </p>
   
 <p align="center">
-  <img width="300" heigth="300" src="Images_for_readme/img3.png">
+  <img width="300" heigth="300" src="Images_for_readme/img3.PNG">
 </p>
