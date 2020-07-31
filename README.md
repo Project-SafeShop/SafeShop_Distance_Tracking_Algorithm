@@ -32,11 +32,11 @@ We will be converting the code to JAVA and integrating the code with the Mobile 
 <p align="center">
   <img width="300" heigth="300" src="Images_for_readme/img2.PNG">
   <br>
-  People inside 6 ft range
+  People inside 6 feet range
 </p>
   
 <p align="center">
   <img width="300" heigth="300" src="Images_for_readme/img3.PNG">
   <br>
-  No one inside 6ft range
+  No one inside 6 feet range
 </p>
